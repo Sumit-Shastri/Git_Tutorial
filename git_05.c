@@ -18,6 +18,8 @@ int main()
 
     addition(a,b);
 
+    printf("Updated code from update-branch");
+
 
     return 0;
 }
